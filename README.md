@@ -1,5 +1,6 @@
 <h1 align="center">Stefan Chvala</h1>
 <p align="center">Welcome to my repository! Feel free to check out my projects.</p>
+<p align="center"><a href="chavalentas.github.io">Check out my website</a></p>
 
 ## About me
 Hello 👋, my name is Stefan and I live in Austria.
@@ -52,6 +53,3 @@ Here are my skills:
 ![Xamarin.Forms](https://img.shields.io/badge/xamarin.forms-darkviolet?style=for-the-badge)
 ![Neo4j](https://img.shields.io/badge/neo4j-lightgreen?style=for-the-badge&logo=neo4j)
 ![RethinkDB](https://img.shields.io/badge/rethinkdb-green?style=for-the-badge)
-
-## Check out my website
-<a href="chavalentas.github.io">chavalentas.github.io</a>
