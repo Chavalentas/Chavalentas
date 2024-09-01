@@ -20,3 +20,7 @@ Here are my skills:
 ![Node.js](https://img.shields.io/badge/node.js-lightblue?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/express-%2317191a?style=for-the-badge&logo=express) ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%23abb9cf?style=for-the-badge&logo=mongodb) ![WPF](https://img.shields.io/badge/WPF-violet?style=for-the-badge&logo=.NET)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-red?style=for-the-badge) ![T-SQL](https://img.shields.io/badge/T--SQL-%23eb99f7?style=for-the-badge)
+![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge) ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge) ![Axios](https://img.shields.io/badge/axios-green?style=for-the-badge&logo=axios)
+![HTML](https://img.shields.io/badge/html-%23d4b655?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/css-orange?style=for-the-badge&logo=css3)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23c7e5eb?style=for-the-badge&logo=postgresql) ![PL/pgSQL](https://img.shields.io/badge/PL%2FpgSQL-%23c7e5eb?style=for-the-badge)
