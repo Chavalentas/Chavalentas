@@ -54,4 +54,4 @@ Here are my skills:
 ![RethinkDB](https://img.shields.io/badge/rethinkdb-green?style=for-the-badge)
 
 ## Check out my website
-<a href="https://www.chavalentas.github.io">chavalentas.github.io</a>
+<a href="www.chavalentas.github.io">chavalentas.github.io</a>
