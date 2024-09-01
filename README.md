@@ -18,4 +18,5 @@ Here are my skills:
 ## Used tools and frameworks
 ![.NET](https://img.shields.io/badge/.NET-violet?style=for-the-badge&logo=.NET) ![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-violet?style=for-the-badge&logo=.NET) ![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge) 
 ![Node.js](https://img.shields.io/badge/node.js-lightblue?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/express-%2317191a?style=for-the-badge&logo=express) ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript)
-![MongoDB](https://img.shields.io/badge/MongoDB-%23abb9cf?style=for-the-badge&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-%23abb9cf?style=for-the-badge&logo=mongodb) ![WPF](https://img.shields.io/badge/WPF-violet?style=for-the-badge&logo=.NET)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-red?style=for-the-badge) ![T-SQL](https://img.shields.io/badge/T--SQL-%23eb99f7?style=for-the-badge)
