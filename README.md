@@ -1,7 +1,8 @@
 <h1 align="center">Stefan Chvala</h1>
 <p align="center">Welcome to my repository! Feel free to check out my projects.</p>
-<p align="center">[Check out my website](chavalentas.github.io)</p>
-
+<div align="center">
+[Check out my website](chavalentas.github.io)
+</div>
 ## About me
 Hello 👋, my name is Stefan and I live in Austria.
 During my studies at the FH Wiener Neustadt and during my internship, I was able to learn many useful skills that I believe are in high demand in today's IT world.
