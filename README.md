@@ -1,6 +1,6 @@
 <h1 align="center">Stefan Chvala</h1>
 <p align="center">Welcome to my repository! Feel free to check out my projects.</p>
-<p align="center"><a href="www.youtube.com">Check out my website</a></p>
+<p align="center">![Check out my website</a>](chavalents.github.io)</p>
 
 ## About me
 Hello 👋, my name is Stefan and I live in Austria.
