@@ -1,7 +1,7 @@
 <h1 align="center">Stefan Chvala</h1>
 <p align="center">Welcome to my repository! Feel free to check out my projects.</p>
 <div align="center">
-[Check out my website](chavalentas.github.io)
+<a href="chavalentas.github.io">Check out my website</a>
 </div>
 
 ## About me
